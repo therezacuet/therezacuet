@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=therezacuet.therezacuet)
+[![GitHub Views](https://komarev.com/ghpvc/?username=therezacuet&color=FAC151)][1]
+[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/therezacuet)
+[![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][4]
+[![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][5]
+[![youtuber](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][11]
 
 <br />
 Hi, I'm [Rezaul Islam](https://http://thereza.herokuapp.com/), a passionate self-taught Full Stack developer and a freelance software engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Tekarsh Bangladesh
 - 💬 Ask me about anything, I am happy to help;
