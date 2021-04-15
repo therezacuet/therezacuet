@@ -6,7 +6,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=therezacuet.therezacuet)
 
 <br />
-Hi, I'm [Rezaul Islam](https://thereza.herokuapp.com/), a passionate self-taught Full Stack developer and a freelance software engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<br/>
+Hi, I'm ![Rezaul Islam](https://thereza.herokuapp.com/), a passionate self-taught Full Stack developer and a freelance software engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<br/>
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
