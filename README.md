@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/therezacuet/">
+  <img align="left" alt="theReza's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=therezacuet&color=FAC151)][1]
-[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/therezacuet)
-[![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][4]
-[![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][5]
-[![youtuber](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][11]
+![](https://visitor-badge.glitch.me/badge?page_id=therezacuet.therezacuet)
 
 <br />
 Hi, I'm [Rezaul Islam](https://http://thereza.herokuapp.com/), a passionate self-taught Full Stack developer and a freelance software engineer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
