@@ -13,7 +13,7 @@ Hi, I'm [Rezaul Islam][1], a passionate self-taught Full Stack developer and a f
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- 🔭 I’m currently working on Tekarsh Bangladesh
+- 🔭 I’m currently working on MarginEdge
 - 💬 Ask me about anything, I am happy to help;
 - 📝 [Resume](http://thereza.herokuapp.com/assets/images/apk/CV-Rezaul%20Islam.pdf)
 
