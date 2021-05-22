@@ -13,7 +13,7 @@ Hi, I'm [Rezaul Islam][1], a passionate self-taught Full Stack developer and a f
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- 🔭 I’m currently working on MarginEdge
+- 🔭 I’m currently working on [MarginEdge][2]
 - 💬 Ask me about anything, I am happy to help;
 - 📝 [Resume](http://thereza.herokuapp.com/assets/images/apk/CV-Rezaul%20Islam.pdf)
 
@@ -28,3 +28,4 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </a>
 
 [1]: https://thereza.herokuapp.com/
+[2]: https://www.marginedge.com/
